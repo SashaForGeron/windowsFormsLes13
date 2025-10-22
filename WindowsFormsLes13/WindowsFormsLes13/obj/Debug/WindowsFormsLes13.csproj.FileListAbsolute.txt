@@ -1,0 +1,11 @@
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\bin\Debug\WindowsFormsLes13.exe.config
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\bin\Debug\WindowsFormsLes13.exe
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\bin\Debug\WindowsFormsLes13.pdb
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.Form1.resources
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.Properties.Resources.resources
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.exe
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.pdb
+C:\Users\sasha\source\repos\WindowsFormsLes13\WindowsFormsLes13\obj\Debug\WindowsFormsLes13.exe.config
